@@ -3,7 +3,7 @@ Welcome to Property Management System Documentation!
 
 .. note::
 
-   This project is under active development.
+   This project is under  development.
 
 Contents
 --------
