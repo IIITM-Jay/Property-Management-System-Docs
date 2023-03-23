@@ -1,4 +1,4 @@
-Welcome to Property Management System Documentation!
+Property Management System 
 =====================================================
 
 .. note::
