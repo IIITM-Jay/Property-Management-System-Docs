@@ -1,6 +1,6 @@
 .. rst-class:: center
 ============================
- Property Management System   
+ Property Management System    
 ============================
 
 .. admonition:: Property Management System: A User-Friendly Application
