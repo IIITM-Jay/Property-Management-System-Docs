@@ -8,7 +8,7 @@ It offers a reliable support to several user categories mapping to their roles a
    
    
 Three Level Hierarchy
-***********************
+---------------------------
 
 .. image:: _static/images/threeLevel.png
    :align: center
