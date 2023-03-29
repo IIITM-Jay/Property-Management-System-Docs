@@ -1,5 +1,4 @@
-.. class:: center
-
+.. rst-class:: center
 ============================
 Property Management System
 ============================
