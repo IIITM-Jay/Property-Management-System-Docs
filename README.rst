@@ -5,3 +5,4 @@ Property Management System Documentation
     :target: https://jaydev-property-management-system-documentation.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
       
+[![CodeQL](https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/codeql.yml/badge.svg)](https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/codeql.yml)
