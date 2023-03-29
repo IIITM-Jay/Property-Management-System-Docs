@@ -1,8 +1,7 @@
 .. rst-class: center
+============================
+Property Management SYstem
+============================
 
-===================
-A Heading 1 Element
-===================
 
-Some generic text
    
