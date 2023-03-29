@@ -1,2 +1,4 @@
-
-h1 h2 { text-align: center; }
+.center h1,
+.center h2 {
+    text-align: center;
+}
