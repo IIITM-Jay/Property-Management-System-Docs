@@ -3,7 +3,7 @@
  Property Management System    
 ============================
 
-.. admonition:: Property Management System:  A User-Friendly Application
+.. admonition:: Property Management System: A User-Friendly Application
 
    Our Property Management System is one of the most **User-Friendly** and **Secure** software which adheres to a *three level of organizational hierarchy*. 
    It offers a reliable support to several user categories mapping to their roles and activities.
