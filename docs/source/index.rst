@@ -18,12 +18,3 @@ Three Level Hierarchy
       * Follows the classic three level architecture of databse: *Physical level, Conceptual level and External level*
       * Supports data independence based on three schema architecture
 
-.. toctree::
-  :maxdepth: 2
-  
-  usage
- 
-.. toctree::
-  :maxdepth: 2
-  
-  installation
