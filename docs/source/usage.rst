@@ -32,3 +32,7 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. toctree::
+  :maxdepth: 2
+
+  installation
