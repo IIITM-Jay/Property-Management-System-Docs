@@ -20,8 +20,10 @@ Three Level Hierarchy
 
 .. toctree::
   :maxdepth: 2
+  
   usage
  
 .. toctree::
   :maxdepth: 2
+  
   installation
