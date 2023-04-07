@@ -24,10 +24,16 @@ Features and Aspects
     :raw-html:`<br />`
     ⏩ Two step verification process
     :raw-html:`<br />`
-    ⏩ Administration approval steps
+    ⏩ Administrative approval steps
     :raw-html:`<br />`
     ⏩ Authorized application access
     
+    
+Roles and Responsibilities
+---------------------------
+
+Asset Owners
+~~~~~~~~~~~~~
 
 
 
