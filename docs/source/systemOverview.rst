@@ -45,7 +45,7 @@ They also keep a close eye on strategic planning and managerial activities for a
    :widths: 50 50
    :header-rows: 1
 
-   * - Role
+   * - Role - Asset/ Property Owners
      - Responsibilities
     
    * - .. image:: _static/images/assetOwner.png 
