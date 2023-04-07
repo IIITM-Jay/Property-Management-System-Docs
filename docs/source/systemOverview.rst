@@ -58,6 +58,11 @@ They also keep a close eye on strategic planning and managerial activities for a
        * Selection of trustworthy administration
        * Catalogue of multiple layered assets 
      
+Managers/ Administrators
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Real World Users
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
