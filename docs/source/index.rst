@@ -20,7 +20,7 @@ Three Level Hierarchy
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: 🏦 Overview
    
