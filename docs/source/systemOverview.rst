@@ -85,6 +85,27 @@ The middle layer users connects the owners with the real world users. They must 
 
 Real World Users
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+The system's fundamental frontend view is accessible to users in the real world. To utilise the applications, a user must be authenticated and have valid credentials.
+
+.. list-table:: 
+   :class: rows
+   :align: center
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Role - Managers/ Coordinators/ :raw-html:`<br />` Administrators
+     - Responsibilities
+    
+   * - .. image:: _static/images/users.png 
+          :width: 150pt
+          :height: 150pt
+     - *Associated Functions:*
+     
+       * Must have valid credentials
+       * Update the administration about the requirements
+       * Timely payments
+       * No damages to the assets
+       
 
 
 
