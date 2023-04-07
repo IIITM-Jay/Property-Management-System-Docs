@@ -40,13 +40,18 @@ They also keep a close eye on strategic planning and managerial activities for a
 
 
 .. list-table:: 
-   :widths: 50 75
+   :widths: 50 50
    :header-rows: 1
 
    * - Role
      - Responsibilities
     
-  * - .. image:: _static/images/assetOwner.png
+   * - .. image:: _static/images/assetOwner.png 
+          :width: 150pt 
+          :height: 110pt
+     - Responsibilities
+     
+     
          
        
      -
