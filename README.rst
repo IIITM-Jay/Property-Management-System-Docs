@@ -11,4 +11,11 @@ Status
     :target: https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/codeql.yml
     :alt: CodeQL Status
 
-
+.. image:: https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/dependency-review.yml/badge.svg
+    :target: https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/dependency-review.yml
+    :alt: Dependency Review
+    
+.. image:: https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/ossar.yml/badge.svg
+    :target: https://github.com/IIITM-Jay/Property-Management-System-Docs/actions/workflows/ossar.yml
+    :alt: OSSAR
+    
