@@ -46,7 +46,8 @@ They also keep a close eye on strategic planning and managerial activities for a
    * - Role
      - Responsibilities
     
-   * - Asset Owner
+  * - .. image:: _static/images/assetOwner.png
+         
        
      -
      
