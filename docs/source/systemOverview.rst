@@ -93,12 +93,12 @@ The system's fundamental frontend view is accessible to users in the real world.
    :widths: 50 50
    :header-rows: 1
 
-   * - Role - Managers/ Coordinators/ :raw-html:`<br />` Administrators
+   * - Role -  Real World Users
      - Responsibilities
     
    * - .. image:: _static/images/users.png 
-          :width: 150pt
-          :height: 150pt
+          :width: 175pt
+          :height: 115pt
      - *Associated Functions:*
      
        * Must have valid credentials
