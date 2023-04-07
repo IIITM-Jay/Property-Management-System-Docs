@@ -22,6 +22,6 @@ Three Level Hierarchy
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 🏪 Overview
+   :caption: 🏦 Overview
    
    systemOverview
