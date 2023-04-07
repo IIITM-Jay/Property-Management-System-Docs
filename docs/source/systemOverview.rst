@@ -40,6 +40,8 @@ They also keep a close eye on strategic planning and managerial activities for a
 
 
 .. list-table:: 
+   :class: rows
+   :align: center
    :widths: 50 50
    :header-rows: 1
 
@@ -47,14 +49,14 @@ They also keep a close eye on strategic planning and managerial activities for a
      - Responsibilities
     
    * - .. image:: _static/images/assetOwner.png 
-          :width: 150pt 
+          :width: 150pt
           :height: 110pt
-     - Responsibilities
+     - *Associated Functions:*
      
-     
-         
-       
-     -
+       * Clear and Concise Assets' details
+       * Periodic Modification
+       * Selection of trustworthy administration
+       * Catalogue of multiple layered assets 
      
 
 
