@@ -7,8 +7,8 @@ Flow Sequence
 
    digraph {
       a->b
-      b->d [label="Yes"]
-      b->c [label="No"]
+      b->d [label="Yes", labelfontcolor=green]
+      b->c [label="No", labelfontcolor=red]
       d->c 
       a [shap=ellipse, peripheries=2,color= lightseagreen, label="Property Management System", style=filled, fontcolor=white];
       b [shape=diamond, label="New User"]
