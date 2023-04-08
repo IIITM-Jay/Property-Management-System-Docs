@@ -1,4 +1,4 @@
-Flow Sequence
+Flow Sequence - Login/ Register
 ======================
 
 
@@ -15,12 +15,12 @@ Flow Sequence
       e->g [label="No"]
       g->c
       a [shap=ellipse, peripheries=2,color= lightseagreen, label="Property Management System", style=filled, fontcolor=white];
-      b [shape=diamond, label="New User"]
-      c [shape=box, label="Login", height=0.25, width=1.5 ]
-      d [shape=box, label="Register", height=0.25, width=2 ]
-      e [shape=diamond, label="Authorised"]
-      f [shape=box, label="Grant Access"]
-      g [shape=box, label="Check Your Credentials", height=0.25, width=2 ]
+      b [shape=diamond, label="New User" color="lightgray", style=filled]
+      c [shape=box, label="Login", height=0.25, width=1.5, color=springgreen,style=filled, fontcolor=white ]
+      d [shape=box, label="Register", height=0.25, width=2, color=orangered,style=filled, fontcolor=white ]
+      e [shape=diamond, label="Authorised", color=indigo, fontcolor=white, style=filled]
+      f [shape=box, label="Grant Access", color=lawngreen, fontcolor=white, style=filled ]
+      g [shape=box, label="Check Your Credentials", height=0.25, width=2, color= violet, style=filled ,fontcolor=white ]
 
 
       
