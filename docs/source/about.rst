@@ -2,7 +2,7 @@
 About- An Introduction
 ========================
   
- .. image:: _static/images/devices1.png
+ .. image:: _static/images/landingPages.png
    :align: center
    
 Your search for property begins and ends here...
