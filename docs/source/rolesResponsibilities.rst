@@ -6,7 +6,7 @@ Roles and Responsibilities
 In order to ensure consistency with a proper flow, distinct user types play their diverse roles. Roles are coupled with responsibilities, which are carried out and periodically modified in accordance with demands and requirements.
 
 Asset Owners
-~~~~~~~~~~~~~
+-----------------
 These users occupies the uppermost layer of the system and are respnsible for keeping their assets's details to be managed and utilized by the real world users.
 They also keep a close eye on strategic planning and managerial activities for an efficient use of their assets.
 
@@ -31,7 +31,7 @@ They also keep a close eye on strategic planning and managerial activities for a
        * Catalogue of multiple layered assets 
      
 Managers/ Administrators
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 The middle layer users connects the owners with the real world users. They must create a workflow plan to streamline the process from asset registration to full utilisation. To make the system more secure and authenticated, the administration has its own level of managers, coordinators, subordinates.
 
 
@@ -56,7 +56,7 @@ The middle layer users connects the owners with the real world users. They must 
        * Strategic planning and Maintenance
 
 Real World Users
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 The system's fundamental frontend view is accessible to users in the real world. To utilise the applications, a user must be authenticated and have valid credentials.
 
 .. list-table:: 
