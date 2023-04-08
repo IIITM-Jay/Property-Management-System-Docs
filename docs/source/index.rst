@@ -20,10 +20,16 @@ Three Level Hierarchy
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :hidden:
    :caption: 🏦 Overview
    
    about
    featuresAspects
    rolesResponsibilities
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 💻 System Flow
+   
