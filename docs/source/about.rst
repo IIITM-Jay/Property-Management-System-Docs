@@ -1,9 +1,9 @@
+
 About- An Introduction
 ========================
-
-.. image:: _static/images/devices1.png
+  
+ .. image:: _static/images/devices1.png
    :align: center
    
- 
- Your search for property begins and end here...
- ******************************************************
+Your search for property begins and ends here...
+********************************************************
