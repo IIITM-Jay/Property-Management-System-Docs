@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.graphviz',
 ]
 
 intersphinx_mapping = {
@@ -36,8 +37,6 @@ html_css_files = [
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
-
-extensions = ['sphinx.ext.graphviz']
 
 
 # -- Options for EPUB output
