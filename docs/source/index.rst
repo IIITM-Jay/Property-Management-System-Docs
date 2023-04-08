@@ -24,4 +24,6 @@ Three Level Hierarchy
    :hidden:
    :caption: 🏦 Overview
    
-   systemOverview
+   about
+   featuresAspects
+   rolesResponsibilities
