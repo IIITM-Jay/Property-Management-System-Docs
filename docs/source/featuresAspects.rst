@@ -34,4 +34,5 @@ Features
 Aspects
 ----------------
     
-
+.. image:: _static/images/aspects.png
+   :align: center
