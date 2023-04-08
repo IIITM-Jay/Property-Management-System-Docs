@@ -7,5 +7,5 @@ Flow Sequence
 
    digraph {
       a->b->c->d->e->f;
-      a [peripheries=2,color=lightgreen,style=filled];
+      a [shap=ellipse, peripheries=2,color=lightgreen, label="Property Management System"];
    }
