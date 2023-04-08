@@ -20,7 +20,7 @@ Flow Sequence - Login/ Register
       d [shape=box, label="Register", height=0.25, width=2, color=orangered,style=filled, fontcolor=white ]
       e [shape=diamond, label="Authorised", color=indigo, fontcolor=white, style=filled]
       f [shape=box, label="Grant Access", peripheries=2,color=lawngreen, fontcolor=white, style=filled, fontcolor=black ]
-      g [shape=box, label="Check Your Credentials", height=0.25, width=2, color=  lightcyan, style=filled ,fontcolor=black ]
+      g [shape=box, label="Check Your Credentials", width=2, color=  lightcyan, style=filled ,fontcolor=black ]
 
 
       
