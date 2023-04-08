@@ -1,7 +1,7 @@
 About- An Introduction
 ========================
 
-.. image:: _static/images/threeLevel.png
+.. image:: _static/images/devices1.png
    :align: center
    
  
