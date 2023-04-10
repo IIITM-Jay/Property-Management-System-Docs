@@ -1,4 +1,4 @@
-Flow Sequence - Login/ Register
+Login/ Register
 ======================
 
 
