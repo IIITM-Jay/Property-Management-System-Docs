@@ -31,6 +31,6 @@ Three Level Hierarchy
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 💻 System Flow
+   :caption: 💻 System Work Flow
    
    flowSequence
