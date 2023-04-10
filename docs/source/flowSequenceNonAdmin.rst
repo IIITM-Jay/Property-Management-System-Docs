@@ -1,4 +1,4 @@
-Flow Sequence - Non Admin/ Real World Users
+Non Admin/ Real World Users
 ================================================
 
 .. graphviz::
