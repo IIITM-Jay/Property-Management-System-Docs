@@ -35,3 +35,4 @@ Three Level Hierarchy
    
    flowSequenceLogin
    flowSequenceAdmin
+   flowSequenceNonAdmin
