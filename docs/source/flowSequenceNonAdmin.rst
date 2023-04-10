@@ -24,7 +24,7 @@ Flow Sequence - Non Admin/ Real World Users
       e [shape=box, label="Finish Booking", distortion=0.10, height=0.25, width=2.5, color=lightblue,style=filled, fontcolor=black ]
       f [shape=box, label="Book the property", height=0.25, width=2.5, color= slategray,style=filled, fontcolor=black ]
       g [shape=diamond, label="Confirm Booking?", color=indigo, fontcolor=white, style=filled]
-      h [shape=box, label="Reserve", height=0.25, width=0.75, color=beige,style=filled, fontcolor=white ]
+      h [shape=box, label="Reserve", height=0.25, width=0.75, color=chocolate,style=filled, fontcolor=white ]
       i [shap=ellipse, peripheries=2,color= orangered, label="Logout", style=filled, fontcolor=white];
 
 
