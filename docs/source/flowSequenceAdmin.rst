@@ -1,4 +1,4 @@
-Flow Sequence - Administration/ Management
+Administration/ Management
 =============================================
 
 .. graphviz::
