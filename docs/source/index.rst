@@ -34,3 +34,4 @@ Three Level Hierarchy
    :caption: 💻 System Work Flow
    
    flowSequenceLogin
+   flowSequenceAdmin
