@@ -37,3 +37,8 @@ Three Level Hierarchy
    flowSequenceAdmin
    flowSequenceNonAdmin
    completeFlowSequence
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 🏘️ Front-End View
