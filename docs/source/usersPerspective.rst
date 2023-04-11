@@ -6,7 +6,7 @@ User's Perspective
 
 .. image:: _static/images/frontView1.png
    :align: center
-   :width: 400
+   :width: 500
    
   
 Aspects
