@@ -44,3 +44,4 @@ Three Level Hierarchy
    :caption: 🏘️ Front-End View
    
    usersPerspective
+   responsive
