@@ -12,7 +12,7 @@ To expediate the searching process, the system offers two filters **Property typ
 
 .. image:: _static/images/search.png
    :align: center
-   :width: 400
+   :width: 600
    
    
 Export
@@ -21,5 +21,5 @@ If a user desires to look at all of the properties at once, they may download th
 
 .. image:: _static/images/export.png
    :align: center
-   :width: 400
+   :width: 600
   
