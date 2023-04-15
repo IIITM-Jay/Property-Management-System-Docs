@@ -7,4 +7,4 @@ Registering yourself is the initial step in using the property management system
 1. Username
 2. Valid Email Address
 3. Password
-4. Confirm Password (Matching the same as entered above)
+4. Confirm Password (*Matching the same as entered above*)
