@@ -47,3 +47,10 @@ Three Level Hierarchy
    responsive
    login
    searchExport
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 👨‍💼 Management View
+   
+   management
