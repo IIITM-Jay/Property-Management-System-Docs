@@ -12,6 +12,8 @@ The system is so designed so as to look perfect on a computer screen 🖥️ as 
    
 Adaptive
 ---------------
+The system architecture and design are created in such a way that multiple website layouts can be customised depending on the device's screens. It operates seamlessly on Android/iOS without any interruptions, enabling the user easy-to-carry versatility.  
+
 
 .. image:: _static/images/adaptive.png
    :align: center
