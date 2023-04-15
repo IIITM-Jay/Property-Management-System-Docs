@@ -8,3 +8,11 @@ The system is so designed so as to look perfect on a computer screen 🖥️ as 
 .. image:: _static/images/landingPages.png
    :align: center
    :width: 500
+   
+   
+Adaptive
+---------------
+
+.. image:: _static/images/adaptive.png
+   :align: center
+   :width: 500
