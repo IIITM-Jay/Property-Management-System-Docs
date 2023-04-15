@@ -15,4 +15,4 @@ Adaptive
 
 .. image:: _static/images/adaptive.png
    :align: center
-   :width: 500
+   :width: 300
