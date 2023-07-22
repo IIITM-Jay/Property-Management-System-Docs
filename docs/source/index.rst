@@ -53,3 +53,5 @@ Three Level Hierarchy
    :caption: 👨‍💼 Management View
    
    management
+   manageUsers
+   manageStaffs
