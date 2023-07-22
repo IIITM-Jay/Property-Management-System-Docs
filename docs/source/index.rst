@@ -15,7 +15,7 @@ Three Level Hierarchy
 
 .. important:: 
       * The sysytem follows the classic three level architecture of databse: *Physical level, Conceptual level and External level*
-      * It supports data independence based on three schema architecture
+      * It enables data to be separated from the underlying structure through a three-schema approach, promoting data independence.
 
 
 .. toctree::
