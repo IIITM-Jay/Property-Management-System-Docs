@@ -3,7 +3,7 @@ Responsive & Adaptive
 
 Responsive
 ------------
-The system is so designed so as to look perfect on a computer screen 🖥️ as well as on a smart phone 🤳. Responsive design adjusts the rendering of web contents to suitably fit to the various display screens and window sizes of various devices. The system is intended to offer an enhanced user experience and be simple and easy to use. Have a look on how the landing page looks on multiple devices with diverse sizes.
+The system is meticulously designed to appear seamless both on computer screens 🖥️ and smartphones 🤳. Through responsive design, the web content automatically adjusts to fit different display screens and window sizes of various devices. This ensures that users have an enhanced experience and find the system simple and easy to use. Take a look at how the landing page appears on multiple devices with different sizes.
 
 .. image:: _static/images/landingPages.png
    :align: center
@@ -12,7 +12,7 @@ The system is so designed so as to look perfect on a computer screen 🖥️ as 
    
 Adaptive
 ---------------
-The system architecture and design are created in such a way that multiple website layouts can be customised depending on the device's screens. It operates seamlessly on Android/iOS without any interruptions, enabling the user easy-to-carry versatility.  
+The system's architecture and design are intricately crafted to ensure a delightful user experience by offering multiple website layouts tailored to different device screens. This level of attention to detail allows the system to operate flawlessly on both Android and iOS devices, providing uninterrupted and versatile usage for users. Whether you are on your smartphone or computer, you can easily access and navigate through the system, making your interactions smooth and enjoyable. 
 
 
 .. image:: _static/images/adaptive.png
