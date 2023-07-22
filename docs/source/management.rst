@@ -1,6 +1,10 @@
 Management & Administration
 ==============================
 
+.. image:: _static/images/managers.png
+   :align: center
+
+
 Managers and Administrators
 -----------------------------
 The property management system is thoughtfully designed to efficiently handle all aspects of administration and management. 
