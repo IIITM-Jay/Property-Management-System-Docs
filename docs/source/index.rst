@@ -5,7 +5,7 @@
 
 .. admonition:: Property Management System: A User-Friendly Application
 
-Our Property Management System stands out as an exceptionally user-friendly and secure software, designed to accommodate a three-tier organizational structure. It provides reliable support for various user roles and activities, ensuring a seamless experience for everyone involved.
+   Our Property Management System stands out as an exceptionally user-friendly and secure software, designed to accommodate a three-tier organizational structure. It provides reliable support for various user roles and activities, ensuring a seamless experience for everyone involved.
    
 Three Level Hierarchy
 ---------------------------
@@ -15,7 +15,7 @@ Three Level Hierarchy
 
 .. important:: 
       * The sysytem follows the classic three level architecture of databse: *Physical level, Conceptual level and External level*
-      * It enables data to be separated from the underlying structure through a three-schema approach, promoting data independence.
+      * It enables data to be separated from the underlying structure through a three-schema approach, promoting data independence
 
 
 .. toctree::
