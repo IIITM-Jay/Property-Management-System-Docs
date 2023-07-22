@@ -54,4 +54,4 @@ Three Level Hierarchy
    
    management
    manageUsers
-   manageStaffs
+   manageAssets
