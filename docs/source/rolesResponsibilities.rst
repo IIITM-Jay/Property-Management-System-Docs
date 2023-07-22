@@ -3,12 +3,11 @@
     
 Roles and Responsibilities
 ============================
-In order to ensure consistency with a proper flow, distinct user types play their diverse roles. Roles are coupled with responsibilities, which are carried out and periodically modified in accordance with demands and requirements.
+To ensure everything runs smoothly and consistently, various types of users have specific roles within the system. Each role comes with its own set of responsibilities, which are regularly adjusted to meet the system's needs and requirements.
 
 Asset Owners
 -----------------
-These users occupies the uppermost layer of the system and are respnsible for keeping their assets's details to be managed and utilized by the real world users.
-They also keep a close eye on strategic planning and managerial activities for an efficient use of their assets.
+These users occupy the top layer of the system and are responsible for managing and sharing their asset details with real-world users. They also oversee strategic planning and managerial activities to ensure their assets are efficiently utilized.
 
 
 .. list-table:: 
@@ -32,7 +31,7 @@ They also keep a close eye on strategic planning and managerial activities for a
      
 Managers/ Administrators
 ---------------------------
-The middle layer users connects the owners with the real world users. They must create a workflow plan to streamline the process from asset registration to full utilisation. To make the system more secure and authenticated, the administration has its own level of managers, coordinators, subordinates.
+The middle layer users act as a bridge between owners and real-world users. Their primary task is to create a workflow plan that streamlines the entire process, starting from asset registration to its full utilization. To enhance security and ensure authentication, the administration has designated managers, coordinators, and subordinates at their respective levels.
 
 
 .. list-table:: 
@@ -57,7 +56,7 @@ The middle layer users connects the owners with the real world users. They must 
 
 Real World Users
 ---------------------
-The system's fundamental frontend view is accessible to users in the real world. To utilise the applications, a user must be authenticated and have valid credentials.
+The system's key front-end view is accessible to real-world users. To use the applications, users need to be authenticated and possess valid credentials.
 
 .. list-table:: 
    :class: rows
