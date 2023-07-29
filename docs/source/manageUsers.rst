@@ -17,7 +17,7 @@ User access and changing registration profiles by administrators play crucial ro
 .. important:: 
       * This will help to
             * prevent unauthorized access
-            * enhances data confidentiality
+            * enhance data confidentiality
 
 Registration Profiles
 -------------------------
