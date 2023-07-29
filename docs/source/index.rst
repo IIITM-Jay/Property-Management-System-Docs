@@ -54,4 +54,3 @@ Three Level Hierarchy
    
    management
    manageUsers
-   manageAssets
